@@ -93,7 +93,7 @@ body{
     color: rgb(236, 62, 72);
 }
 .section1 .banner0{
-    background-image: url(/img/01-Banner/selfishlife-banner.jpg);
+    background-image: url(../img/01-Banner/selfishlife-banner.jpg);
     background-size: cover;
     width: 1920px;
     min-height: 600px;
